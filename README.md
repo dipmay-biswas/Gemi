@@ -18,12 +18,12 @@ Gemi isn't just a chat app; it's your AI-powered companion for seamless text and
 
 Behold the magic of Googly through these enchanting screenshots:
 
-<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/70ea698d-9e16-48b0-b04c-b802b3a30e9b" width="250" height="550">
-<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/7e030925-3a50-46d1-bc4e-2067fbd04837" width="250" height="550">
-<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/4f653f2b-617e-420a-8076-a6c3849cae1f" width="250" height="550">
-<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/1045233d-612a-4443-a534-636eb39f69ea" width="250" height="550">
-<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/c3544bb7-0b51-4087-ae33-a8463acdabff" width="250" height="550">
-<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/309ca07c-db11-42d8-b340-779ea1667ac4" width="250" height="550">
+<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/70ea698d-9e16-48b0-b04c-b802b3a30e9b" width="280" height="550">
+<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/7e030925-3a50-46d1-bc4e-2067fbd04837" width="280" height="550">
+<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/4f653f2b-617e-420a-8076-a6c3849cae1f" width="280" height="550">
+<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/1045233d-612a-4443-a534-636eb39f69ea" width="280" height="550">
+<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/c3544bb7-0b51-4087-ae33-a8463acdabff" width="280" height="550">
+<img src="https://github.com/dipmay-biswas/Gemi/assets/127662809/309ca07c-db11-42d8-b340-779ea1667ac4" width="280" height="550">
 
 
 ## Begin the Adventure 🚀
